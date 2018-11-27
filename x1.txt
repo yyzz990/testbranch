@@ -23,3 +23,5 @@ xxxxxxxxxxxxxx
 Commit
 切分支 提交
 合并
+
+test commit -amend
