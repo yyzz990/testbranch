@@ -1,4 +1,0 @@
-fight 
-attack 
-
-skill
