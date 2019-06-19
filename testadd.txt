@@ -1,3 +1,0 @@
-add
-checkout -- file
-newline
